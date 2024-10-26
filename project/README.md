@@ -1,5 +1,5 @@
 # Personal Finance Tracker
-#### Video Demo: [URL HERE]
+#### Video Demo: https://youtu.be/MUAGQmSPukk 
 #### Description:
 
 ## Introduction
